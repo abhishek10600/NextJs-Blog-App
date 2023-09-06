@@ -1,0 +1,21 @@
+.headingContent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blogs{
+    margin-top:80px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.blog{
+    flex: 1;
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    gap: 20px;
+}
+.blogTitle{
+    color: #daa8de;
+}

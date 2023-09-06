@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.title{
+    text-align: center;
+    color: #daa8de;
+}
+.desc{
+    text-align: justify;
+    padding: 30px 0px;
+    line-height: 2;
+}
+.blogContent{
+    padding:40px 0px;
+}
+.content{
+    text-align: justify;
+    line-height: 2;
+    font-size:20px;
+}
+.author{
+    font-weight: bold;
+}
